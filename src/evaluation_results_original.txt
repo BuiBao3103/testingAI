@@ -1,0 +1,51 @@
+=== KẾT QUẢ ĐÁNH GIÁ ===
+Model: original
+Tổng số ảnh kiểm thử: 359
+Số ảnh phân loại đúng: 316
+Độ chính xác tổng thể: 88.02%
+Độ tin cậy trung bình (dự đoán đúng): 98.71%
+
+Các ảnh bị phân loại sai:
+Ảnh: Image_5.jpg | Nhãn thật: apple | Dự đoán: pepper | Độ tin cậy: 0.44
+Ảnh: Image_2.jpg | Nhãn thật: banana | Dự đoán: orange | Độ tin cậy: 0.66
+Ảnh: Image_9.jpg | Nhãn thật: banana | Dự đoán: pear | Độ tin cậy: 0.98
+Ảnh: Image_1.jpg | Nhãn thật: bell pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_10.jpg | Nhãn thật: bell pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_2.jpg | Nhãn thật: bell pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_3.jpeg | Nhãn thật: bell pepper | Dự đoán: pepper | Độ tin cậy: 0.99
+Ảnh: Image_4.jpg | Nhãn thật: bell pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_5.jpg | Nhãn thật: bell pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_6.jpg | Nhãn thật: bell pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_7.jpg | Nhãn thật: bell pepper | Dự đoán: capsicum | Độ tin cậy: 0.99
+Ảnh: Image_8.jpg | Nhãn thật: bell pepper | Dự đoán: pepper | Độ tin cậy: 0.96
+Ảnh: Image_9.jpg | Nhãn thật: bell pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_2.jpg | Nhãn thật: capsicum | Dự đoán: pepper | Độ tin cậy: 0.75
+Ảnh: Image_5.jpg | Nhãn thật: capsicum | Dự đoán: pepper | Độ tin cậy: 0.89
+Ảnh: Image_4.png | Nhãn thật: carrot | Dự đoán: pepper | Độ tin cậy: 0.57
+Ảnh: Image_1.jpg | Nhãn thật: chilli pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_10.jpg | Nhãn thật: chilli pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_2.png | Nhãn thật: chilli pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_3.jpg | Nhãn thật: chilli pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_4.jpg | Nhãn thật: chilli pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_5.png | Nhãn thật: chilli pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_6.jpeg | Nhãn thật: chilli pepper | Dự đoán: pepper | Độ tin cậy: 0.80
+Ảnh: Image_7.jpg | Nhãn thật: chilli pepper | Dự đoán: pepper | Độ tin cậy: 0.99
+Ảnh: Image_8.jpg | Nhãn thật: chilli pepper | Dự đoán: pepper | Độ tin cậy: 0.92
+Ảnh: Image_9.jpg | Nhãn thật: chilli pepper | Dự đoán: pepper | Độ tin cậy: 1.00
+Ảnh: Image_3.jpg | Nhãn thật: corn | Dự đoán: sweetcorn | Độ tin cậy: 0.58
+Ảnh: Image_8.jpg | Nhãn thật: corn | Dự đoán: sweetcorn | Độ tin cậy: 0.60
+Ảnh: Image_7.jpg | Nhãn thật: orange | Dự đoán: lemon | Độ tin cậy: 0.57
+Ảnh: Image_2.jpg | Nhãn thật: potato | Dự đoán: orange | Độ tin cậy: 0.32
+Ảnh: Image_8.jpg | Nhãn thật: potato | Dự đoán: apple | Độ tin cậy: 0.94
+Ảnh: Image_9.jpg | Nhãn thật: potato | Dự đoán: sweetpotato | Độ tin cậy: 0.96
+Ảnh: Image_1.jpg | Nhãn thật: soy beans | Dự đoán: beans | Độ tin cậy: 1.00
+Ảnh: Image_10.jpg | Nhãn thật: soy beans | Dự đoán: beans | Độ tin cậy: 1.00
+Ảnh: Image_2.jpg | Nhãn thật: soy beans | Dự đoán: beans | Độ tin cậy: 1.00
+Ảnh: Image_3.jpg | Nhãn thật: soy beans | Dự đoán: beans | Độ tin cậy: 1.00
+Ảnh: Image_4.jpg | Nhãn thật: soy beans | Dự đoán: beans | Độ tin cậy: 1.00
+Ảnh: Image_5.jpg | Nhãn thật: soy beans | Dự đoán: beans | Độ tin cậy: 1.00
+Ảnh: Image_6.jpg | Nhãn thật: soy beans | Dự đoán: beans | Độ tin cậy: 1.00
+Ảnh: Image_7.jpg | Nhãn thật: soy beans | Dự đoán: beans | Độ tin cậy: 1.00
+Ảnh: Image_8.jpg | Nhãn thật: soy beans | Dự đoán: beans | Độ tin cậy: 1.00
+Ảnh: Image_9.jpg | Nhãn thật: soy beans | Dự đoán: beans | Độ tin cậy: 1.00
+Ảnh: Image_9.jpg | Nhãn thật: sweetcorn | Dự đoán: corn | Độ tin cậy: 0.61
